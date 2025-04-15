@@ -1,3 +1,11 @@
+![Terraform](https://img.shields.io/badge/Terraform-v1.6+-5F43E9?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-Deployed-orange?logo=amazon-aws)
+![ECS](https://img.shields.io/badge/ECS-Fargate-green?logo=amazon-ecs)
+
+This project sets up a production-grade AWS infrastructure using Terraform, ECS Fargate, and an Application Load Balancer. The architecture is modular and deploys a containerized NGINX application across 3 Availability Zones in the eu-central-1 region.
+
+
+
 # 🌍 AWS Scalable Infrastructure with Terraform  
 *(Scroll down for 🇩🇪 Deutsch)*
 
